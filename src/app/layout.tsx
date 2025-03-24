@@ -7,7 +7,8 @@ import GridBackground from "@/components/grid-background";
 
 const montserrat = Montserrat({ subsets: ["latin"] });
 export const metadata: Metadata = {
-  title: "Luthfi Hakim | Personal",
+  title: "Luthfi Hakim | Portfolio Website",
+  icons: "/favicon.ico",
   metadataBase: new URL("https://www.luthfyhakim.cloud"),
   alternates: {
     canonical: "/",
@@ -15,7 +16,7 @@ export const metadata: Metadata = {
   authors: [{ name: "Luthfi Hakim", url: "https://github.com/luthfyhakim" }],
   description: "Luthfi Hakim's personal portfolio website",
   openGraph: {
-    title: "Luthfi Hakim | Personal",
+    title: "Luthfi Hakim | Portfolio Website",
     description: "Luthfi Hakim's personal portfolio website",
     images: [
       {
