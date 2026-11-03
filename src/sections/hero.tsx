@@ -13,21 +13,18 @@ export default function hero() {
         alt="Profile Picture"
         className="m-5 h-48 w-48 rounded-full"
       />
-      <h1>
-        <MotionDiv delayOffset={0.8}>Backend Engineer 🧑🏻‍💻</MotionDiv>
+      <h1 className="mt-4 text-[1.4rem] md:text-[2rem]">
+        <MotionDiv delayOffset={0.8}>Full-Stack Developer 🧑🏻‍💻</MotionDiv>
       </h1>
-      <h1>
-        <MotionDiv delayOffset={1}>CryptoBros 💰</MotionDiv>
+      <h1 className="mt-2 text-[1.4rem] md:text-[2rem]">
+        <MotionDiv delayOffset={1}>Mobile Developer 📱</MotionDiv>
       </h1>
       <div className="my-12 flex w-full flex-col gap-2 text-center lg:w-[50%]">
         <MotionDiv delayOffset={1.2}>
           <p>Welcome to my personal page!</p>
         </MotionDiv>
         <MotionDiv delayOffset={1.4}>
-          <p>
-            Just an ordinary person<b> ✨ Golang and Typescript </b>developer
-            who loves to build something cool.
-          </p>
+          <p>Just an ordinary person who loves to build something cool.</p>
         </MotionDiv>
       </div>
       <div className="my-8">

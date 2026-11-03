@@ -1,6 +1,6 @@
 # Luthfi Hakim Personal Portfolio Website 🧑🏻‍💻
 
-Link: [luthfyhakim.cloud](https://luthfyhakim.cloud)
+Link: [luthfyhakim.vercel.app](https://luthfyhakim.vercel.app)
 
 A super clean personal portfolio website, built with:
 

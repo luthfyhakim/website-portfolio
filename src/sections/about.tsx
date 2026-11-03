@@ -18,7 +18,7 @@ export default function about() {
               <span className="font-mono font-semibold text-orange-400">
                 Luthfi Hakim
               </span>
-              . I'm a Backend Engineer based in{" "}
+              . I'm a Full-Stack Developer based in{" "}
               <span className="bg-gradient-to-r from-blue-400 to-blue-600 bg-clip-text font-semibold text-transparent">
                 East Java, Indonesia
               </span>

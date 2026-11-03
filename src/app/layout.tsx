@@ -9,7 +9,7 @@ const montserrat = Montserrat({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Luthfi Hakim | Portfolio Website",
   icons: "/favicon.ico",
-  metadataBase: new URL("https://www.luthfyhakim.cloud"),
+  metadataBase: new URL("https://www.luthfyhakim.vercel.app"),
   alternates: {
     canonical: "/",
   },
